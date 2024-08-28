@@ -1,0 +1,16 @@
+{
+  "name": "my-cron-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node cron-job.js",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.19.0",
+    "node-cron": "^3.0.3",
+    "prisma": "^5.18.0"
+  },
+  "devDependencies": {
+  "prisma": "^5.19.0"
+  }
+}

@@ -1,0 +1,112 @@
+[{
+    "id":"66cf4187eafa8879e7a4735d",
+    "body": "Yoga and food—sounds like a great lifestyle! 🧘‍♀️🍽️ Do you have a favorite recipe you’d recommend? 😋",
+    "createdAt": "2024-08-28T15:25:59.715Z",
+    "updatedAt": "2024-08-28T15:33:46.382Z",
+    "userId": "66cf4139eafa8879e7a4735c",
+    "likedIds": [
+
+        "66cf410aeafa8879e7a4735b",
+        
+        "66cf4010eafa8879e7a47358"
+
+    ]
+  },
+  {
+    "id":"66cf4193eafa8879e7a4735e",
+    "body": "Staying balanced and happy is so important! 🌼🧘‍♂️ Any tips for maintaining that balance in daily life? 🌟",
+    "createdAt": "2024-08-28T15:26:11.140Z",
+    "updatedAt": "2024-08-28T15:30:33.621Z",
+    "userId":"66cf4139eafa8879e7a4735c",
+    "likedIds": [
+      
+        "66cf4010eafa8879e7a47358"
+      ,
+      
+        "66cf410aeafa8879e7a4735b"
+      ,
+      
+        "66cf3fd6eafa8879e7a47357"
+      
+    ]
+  },
+  {
+    "id": "66cf41b4eafa8879e7a4735f",
+    "body": "Love your passion for tech! 🚀 Any cool projects you're working on right now? 💻",
+    "createdAt": "2024-08-28T15:26:44.357Z",
+    "updatedAt":"2024-08-28T15:26:44.357Z",
+    "userId": "66cf3fd6eafa8879e7a47357"
+  },
+  {
+    "id":"66cf41cfeafa8879e7a47360",
+    "body": "Coffee and books are a perfect combo! ☕📚 What’s your current read? 😄",
+    "createdAt": "2024-08-28T15:27:11.917Z",
+    "updatedAt":"2024-08-28T15:34:15.309Z",
+    "userId": "66cf4010eafa8879e7a47358",
+    "likedIds": [
+      
+        "66cf410aeafa8879e7a4735b"
+      
+    ]
+  },
+  {
+    "id": "66cf4206eafa8879e7a47362",
+    "body": "Gaming and coding—what a combo! 🎮💻 Any recommendations for cool games or coding projects? 🤔",
+    "createdAt": "2024-08-28T15:28:06.376Z",
+    "updatedAt": "2024-08-28T15:30:28.663Z",
+    "userId":"66cf4055eafa8879e7a47359",
+    "likedIds": [
+      
+        "66cf3fd6eafa8879e7a47357"
+      
+    ]
+  },
+  {
+    "id": "66cf4224eafa8879e7a47363",
+    "body": "\"Sports and photography—what a great mix! 🏀📸 Do you have a favorite sport or photo subject? 🤩",
+    "createdAt":"2024-08-28T15:28:36.064Z",
+    "updatedAt": "2024-08-28T15:30:27.118Z",
+    "userId": "66cf410aeafa8879e7a4735b",
+    "likedIds": [
+      
+        "66cf3fd6eafa8879e7a47357"
+      
+    ]
+  },
+  {
+    "id":"66cf422eeafa8879e7a47364",
+    "body": "Balancing work and play is key! ⚖️📷 How do you manage to find time for both? 😎",
+    "createdAt": "2024-08-28T15:28:46.834Z",
+    "updatedAt":  "2024-08-28T15:33:18.428Z",
+    "userId": "66cf410aeafa8879e7a4735b",
+    "likedIds": [
+      
+        "66cf3fd6eafa8879e7a47357"
+      ,
+      
+        "66cf4010eafa8879e7a47358"
+      
+    ]
+  },
+  {
+    "id":"66cf425feafa8879e7a47367",
+    "body": "🎨✨ What inspires your creativity? 🌟",
+    "createdAt": "2024-08-28T15:29:35.407Z",
+    "updatedAt": "2024-08-28T15:34:13.491Z",
+    "userId": "66cf4095eafa8879e7a4735a",
+    "likedIds": [
+      
+        "66cf3fd6eafa8879e7a47357"
+      ,
+      
+        "66cf410aeafa8879e7a4735b"
+      
+    ]
+  },
+  {
+    "id":  "66cf4283eafa8879e7a47368",
+    "body": "Travel goals! 🌍 What’s been your favorite destination so far? ✈️",
+    "createdAt":  "2024-08-28T15:30:11.932Z",
+    "updatedAt":  "2024-08-28T15:30:11.932Z",
+    "userId": "66cf3fd6eafa8879e7a47357"
+  }]
