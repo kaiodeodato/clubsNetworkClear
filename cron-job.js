@@ -1,4 +1,3 @@
-const cron = require('node-cron');
 const fs = require('fs');
 const path = require('path');
 const { PrismaClient } = require('@prisma/client');
@@ -49,4 +48,4 @@ async function cleanupAndLoadData() {
     }
 }
 
-cron.schedule('* * * * *', cleanupAndLoadData);
+cleanupAndLoadData();
