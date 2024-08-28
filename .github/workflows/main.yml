@@ -2,7 +2,7 @@ name: Daily Cleanup and Data Load
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '0 10 * * *'
 
 jobs:
   build:
